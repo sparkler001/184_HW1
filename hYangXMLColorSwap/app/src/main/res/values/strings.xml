@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hYangXMLColorSwap</string>
+    <string name="tap_me">TAP ME!</string>
+    <string name="tap_to_change_color">Tap to Change Color</string>
+</resources>
